@@ -8,3 +8,17 @@ function somar(x, y){
 
 somar(1000, 2000)
 document.write(`soma: ${soma}`)
+
+/*Tipos de dados
+Tipo	Exemplo
+string	"Olá, mundo!"
+number	42, 3.14
+bigint	1234567890n
+boolean	true, false
+undefined	undefined
+null	null
+symbol	Symbol('id')
+object	{ nome: "Maria", idade: 25 }
+array	[1, 2, 3]
+function	function() {}
+*/
