@@ -1,4 +1,4 @@
-let x = 9
+/*let x = 9
 let y = 18
 let soma = null
 function somar(x, y){
@@ -7,7 +7,7 @@ function somar(x, y){
 }
 
 somar(1000, 2000)
-document.write(`soma: ${soma}`)
+document.write(`soma: ${soma}`) */
 
 /*Tipos de dados
 Tipo	Exemplo
@@ -22,3 +22,8 @@ object	{ nome: "Maria", idade: 25 }
 array	[1, 2, 3]
 function	function() {}
 */
+
+//operadores aritmeticos
+let x = 6 / 2 //* + -
+console.log("<p> divisao: " + x + "</P>")
+console.log(`soma: ${x}`)
